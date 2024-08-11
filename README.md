@@ -75,7 +75,7 @@ async function update() {
 
 The backend is written in Motoko and runs on the Internet Computer. It handles the core banking logic, including topping up, withdrawing, and compounding interest.
 
-![voter regitration](https://github.com/user-attachments/assets/f7d2bd35-bc2e-40c9-8632-8b514fdecd33)
+
 Sudo
 ```
 import Debug "mo:base/Debug";
