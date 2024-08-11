@@ -124,9 +124,9 @@ Top-Up Functionality
 Withdrawal Functionality
 - 1.Input: User enters an amount to withdraw.
 - 2.Process: The backend checks if the balance is sufficient.
--- If yes, it subtracts the amount from the current balance.
--- If no, it displays an error message.
--- 3.Output: The new balance is displayed on the frontend.
+- If yes, it subtracts the amount from the current balance.
+- If no, it displays an error message.
+- 3.Output: The new balance is displayed on the frontend.
 
 Compound Interest Calculation
 - 1.Input: Triggered automatically after a transaction.
