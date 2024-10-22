@@ -1,0 +1,38 @@
+1)This project is based on web 3.0  blockchain technology we are building decentralized bank to find compound intrest.Compound interest is the interest imposed on deposit amount.The compound interest for an amount depends on both Principal and interest gained over periods.This is decentralized application in which program is stored in decentralized way it actually hosted by millions of internet computer across the internet.
+There are multiple blockchain such as solana, Avalanch or Polkadot or solana etc.Most of DApps are build on etherium.It is difficult to scale becauseit is  costly to store data on etherium.Todays Dapps are not fully decentralized they are partially decentralized use corporate cloud such as (aws or azure) for webserver or data storage
+
+2)We are using internet computer build by difinity foundation. The idea is to build scalable cloud computer on blockchain. It allows you to perform fast computation to store data directly on blockchain and to be able to create fully fledge appliction on blockchain.
+
+3)Internet computer ensure run web include hosting storage service in one secure protocol.Internet computer agrigates compute capacity of large number of indipendent datacenter ic take all data center around the world 
+and combine them under one hood using using internet computer protocol into large single decentralized world computer.
+
+4)Canister are used in internet computer to run process execute code and store data for program.Ic are nothing but whole bunch of canisters where each canister can hold program program state using web assembly module and flat memory module called memory page. Web assembly module and memory pages are resposible to run web app on hardware and u can do that using many language such as Rust or definity motoko.Motoko was design and created by definity foundation.Now you notice that by default, every single new project that you create on the ICP when you use
+
+the template, it will generate a set of assets, including a Dfinity logo and also an index.html,
+
+and index.js.
+
+And you can tell pretty much from this HTML code that this is just the same as the "hello world" example
+
+that we saw when we first set up for ICP development.
+
+And that means right now the front-end for our Dbank actually looks somewhat like this.
+
+So this doesn't allow us to use any of the things that we've created in our back-end,
+
+and so basically we have to get rid of the template and replace it with this.
+
+This is what we're going to create today.
+
+We're going to hook up this front-end with our Motoko back-end and get it to actually work and to update
+
+the balance to top up, to withdraw and to be able to use our Motoko code.we just need that bridge in between the two of them, which is our index.js, the JavaScript code
+
+that's going to tell the frontend how it should interact with the backend.
+
+5)The project we are developing is inspired by compound protocol which is  called money market protocol.Compound will collect the intrest paid by the borrowers and pay out that intrest to landers of that token while also taking small fee for the service.We are going to write the code to earn intrest on a token balance in motoko. 
+
+
+convert this expirience like above provided information and use more ats industry oriented keywordappropriate keywords
+
+Ans provide me this information in only 5 bullet points    
